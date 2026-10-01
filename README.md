@@ -4,7 +4,6 @@ I'm an software developer who loves building apps that make everyday things simp
 
 - 🔭 Currently building Android apps with **Kotlin**
 - 🌱 Exploring better ways to create privacy-friendly, useful mobile experiences
-- 📫 Reach me on [GitHub](https://github.com/zachvlat)
 - ⚡ Fun fact: I like turning small ideas into complete apps
 
 ## 🛠 Tech Stack
