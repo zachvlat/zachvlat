@@ -1,10 +1,9 @@
-# Hi, I'm Zach 👋
+# Hi 👋
 
-I'm an Android developer who loves building Kotlin apps that make everyday things simpler, more private, and more fun.
+I'm an software developer who loves building apps that make everyday things simpler, more private, and more fun.
 
 - 🔭 Currently building Android apps with **Kotlin**
 - 🌱 Exploring better ways to create privacy-friendly, useful mobile experiences
-- 💬 Ask me about **Android**, **Kotlin**, and app development
 - 📫 Reach me on [GitHub](https://github.com/zachvlat)
 - ⚡ Fun fact: I like turning small ideas into complete apps
 
@@ -18,7 +17,7 @@ I'm an Android developer who loves building Kotlin apps that make everyday thing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Recent Featured Projects
 
 ### [poso](https://github.com/zachvlat/poso)
 Greek supermarket prices for many products, via gov.gr.
