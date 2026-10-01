@@ -29,7 +29,7 @@ Your game library inside your phone!
 An Android app that lets you browse and set beautiful wallpapers from WallHaven.
 
 ### [instakitty](https://github.com/zachvlat/instakitty)
-Instagram, but private!
+A Kittygram client.
 
 ### [LiveMatches](https://github.com/zachvlat/LiveMatches)
 A modern Android app for tracking live scores from different sports.
