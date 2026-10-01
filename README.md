@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Zach 👋
 
-<!--
-**zachvlat/zachvlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android developer who loves building Kotlin apps that make everyday things simpler, more private, and more fun.
 
-Here are some ideas to get you started:
+- 🔭 Currently building Android apps with **Kotlin**
+- 🌱 Exploring better ways to create privacy-friendly, useful mobile experiences
+- 💬 Ask me about **Android**, **Kotlin**, and app development
+- 📫 Reach me on [GitHub](https://github.com/zachvlat)
+- ⚡ Fun fact: I like turning small ideas into complete apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [poso](https://github.com/zachvlat/poso)
+Greek supermarket prices for many products, via gov.gr.
+
+### [gameshelf](https://github.com/zachvlat/gameshelf)
+Your game library inside your phone!
+
+### [havenwall](https://github.com/zachvlat/havenwall)
+An Android app that lets you browse and set beautiful wallpapers from WallHaven.
+
+### [instakitty](https://github.com/zachvlat/instakitty)
+Instagram, but private!
+
+### [LiveMatches](https://github.com/zachvlat/LiveMatches)
+A modern Android app for tracking live scores from different sports.
+
+### [Lootify](https://github.com/zachvlat/Lootify)
+A list of free games you can claim from big game stores, like Steam, GOG, and Epic.
+
+### [freetok](https://github.com/zachvlat/freetok)
+An app that lets you watch TikTok videos natively on Android, without the official TikTok app.
+
+> I also work on private projects, including **fluxdroid**, **librecord**, and **redacted**.
+
+## 📊 GitHub Stats
+
+![zachvlat's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachvlat&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachvlat&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zachvlat&theme=tokyonight)
+
+## 🤝 Connect
+
+- GitHub: [@zachvlat](https://github.com/zachvlat)
+
+---
+
+⭐️ Thanks for stopping by!
