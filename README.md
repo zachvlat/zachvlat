@@ -47,11 +47,3 @@ An app that lets you watch TikTok videos natively on Android, without the offici
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachvlat&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zachvlat&theme=tokyonight)
-
-## 🤝 Connect
-
-- GitHub: [@zachvlat](https://github.com/zachvlat)
-
----
-
-⭐️ Thanks for stopping by!
